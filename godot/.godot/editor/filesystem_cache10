@@ -1,0 +1,11 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1751637350
+export_presets.cfg::TextFile/TextFile::-1::1751637333::0::1::::<><><>0<>0<><>::
+godot_export_test.gd::GDScript/GDScript::5549794244960959565::1751634880::0::1::::<>Control<><>0<>1<><>::
+godot_export_test.tscn::PackedScene/PackedScene::6265888863598978734::1751637350::0::1::::<><><>0<>0<><>::uid://clcmkhid3k206::::res://godot_export_test.gd
+icon.svg::CompressedTexture2D/CompressedTexture2D::2109218200248926109::1751631037::1751631041::1::::<><><>0<>0<>feb832446a608f8b1d2d83ba76adfc20<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://addons/::1751631896
+::res://addons/export_test_plugin/::1751636793
+editor_export_test_plugin.gd::GDScript/GDScript::8946403524266708361::1751636793::0::1::::EditorExportTestPlugin<>EditorExportPlugin<><>0<>0<><>::
+export_test_plugin.gd::GDScript/GDScript::8048944770518368733::1751632083::0::1::::<>EditorPlugin<><>0<>1<><>::
+plugin.cfg::TextFile/TextFile::-1::1751631896::0::1::::<><><>0<>0<><>::
